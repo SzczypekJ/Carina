@@ -1,0 +1,23 @@
+[2025-03-12 11:25:25] [1] [INFO] 
+============= Basic configuration =============
+env=DEMO
+=========== Encryptor configuration ===========
+crypto_key_value=*****
+=========== WebDriver configuration ===========
+url=https://www.gsmarena.com
+auto_screenshot=true
+localization_encoding=UTF-8
+language=en_US
+-------------- Driver capabilities ------------
+===============================================
+
+[2025-03-12 11:25:25] [1] [WARN] Reporting disabled: using no op test run registrar
+[2025-03-12 11:25:29] [1] [INFO] [TestNG] Running:
+  C:\Users\Jakub\AppData\Local\JetBrains\IntelliJIdea2024.3\temp-testng-customsuite.xml
+
+[2025-03-12 11:25:29] [1] [INFO] Set thread-count=1
+[2025-03-12 11:25:29] [1] [INFO] Set data-provider-thread-count=1
+[2025-03-12 11:25:29] [1] [INFO] CARINA_CORE_VERSION: 1.1.3
+[2025-03-12 11:25:37] [1] [INFO] INFO: '**************** Test execution summary ****************'.
+[2025-03-12 11:25:37] [1] [INFO] RESULT #1: TEST [LabaCourse - testCreateCart] PASS [log=file://C:\Users\Jakub\Desktop\STUDIA\dodat\Java_course\LabaCourse\.\reports\1741778725139/ae1ff9d1-5d51-4bc0-a0c8-d3caf689cdcc/test.log]
+[2025-03-12 11:25:37] [1] [INFO] RESULT #2: TEST [LabaCourse - testCreateCartMissingSomeFields] PASS [log=file://C:\Users\Jakub\Desktop\STUDIA\dodat\Java_course\LabaCourse\.\reports\1741778725139/545b335b-6840-48c4-a69b-635006d7acb5/test.log]
